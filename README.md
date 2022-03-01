@@ -5,6 +5,7 @@ A collection of awful deplatform actions taken by private companies.
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
 | Domain name registrar | Namecheap | users registered in Russia | No | Feb 28, 2022 | https://news.ycombinator.com/item?id=30504812 |
+| Subscription service | Patreon | Come Back Alive | No | Feb 25, 2022 | https://blog.patreon.com/on-the-removal-of-come-back-alive <br /> https://news.ycombinator.com/item?id=30465654 |
 | Podcast | Spotify | some episodes of Joe Rogan's podcast | No | Feb 05, 2022 | https://news.ycombinator.com/item?id=30216740 |
 | Social Media | Twitter | Sci-Hub | No | Jan 13, 2021 | https://www.science.org/content/article/twitter-shuts-down-account-sci-hub-pirated-papers-website <br /> https://news.ycombinator.com/item?id=25779367 |
 | Cloud hosting | Amazon | Parler | No | Jan 10, 2021 | https://www.bbc.com/news/technology-55615214 <br /> https://news.ycombinator.com/item?id=25726453 |
