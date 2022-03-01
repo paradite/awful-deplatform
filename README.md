@@ -1,6 +1,6 @@
 # Awful Deplatform
 
-A collection of awful deplatform actions taken by private companies.
+A collection of awful deplatform actions taken by private companies at their own discretion.
 
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
