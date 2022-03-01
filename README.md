@@ -20,6 +20,7 @@ A collection of awful deplatform actions taken by private companies.
 | Payment processor | PayPal | Gab | ? | Oct 27, 2018 | https://www.theverge.com/2018/10/27/18032930/paypal-banned-gab-following-pittsburgh-shooting <br /> https://news.ycombinator.com/item?id=18317564 |
 | Domain name registrar | Cloudflare | Sci-Hub | ? | Feb 5, 2018 | https://torrentfreak.com/cloudflare-terminates-service-to-sci-hub-domain-names-180205/ <br /> https://news.ycombinator.com/item?id=16310230 |
 | Domain name registrar | Cloudflare | Daily Stormer | No | Aug 16, 2017 | https://blog.cloudflare.com/why-we-terminated-daily-stormer/ <br /> https://news.ycombinator.com/item?id=15031922 |
+| App distribution | Apple | Dash | No | Oct 5, 2016 | https://blog.kapeli.com/apple-removed-dash-from-the-app-store <br /> https://news.ycombinator.com/item?id=12646919 |
 
 ---
 
