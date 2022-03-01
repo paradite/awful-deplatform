@@ -6,13 +6,14 @@ A collection of awful deplatform actions taken by private companies.
 | --- | --- | --- | --- | --- | --- |
 | Domain name registrar | Namecheap | users registered in Russia | No | Feb 28, 2022 | https://news.ycombinator.com/item?id=30504812 |
 | Subscription service | Patreon | Come Back Alive | No | Feb 25, 2022 | https://blog.patreon.com/on-the-removal-of-come-back-alive <br /> https://news.ycombinator.com/item?id=30465654 |
-| Podcast | Spotify | some episodes of Joe Rogan's podcast | No | Feb 05, 2022 | https://news.ycombinator.com/item?id=30216740 |
+| Podcast | Spotify | some episodes of Joe Rogan's podcast | No | Feb 05, 2022 | https://www.jremissing.com/ <br /> https://news.ycombinator.com/item?id=30216740 |
 | Social Media | Twitter | Sci-Hub | No | Jan 13, 2021 | https://www.science.org/content/article/twitter-shuts-down-account-sci-hub-pirated-papers-website <br /> https://news.ycombinator.com/item?id=25779367 |
 | Cloud hosting | Amazon | Parler | No | Jan 10, 2021 | https://www.bbc.com/news/technology-55615214 <br /> https://news.ycombinator.com/item?id=25726453 |
 | App distribution | Apple, Google | Parler | No | Jan 10, 2021 | https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html <br /> https://news.ycombinator.com/item?id=25706993 |
 | Social Media | Twitter | Donald Trump | No | Jan 8, 2021 | https://blog.twitter.com/en_us/topics/company/2020/suspension <br /> https://news.ycombinator.com/item?id=25691912 |
 | Social Media | Facebook | Donald Trump | No | Jan 7, 2021 | https://www.facebook.com/4/posts/10112681480907401/ <br /> https://news.ycombinator.com/item?id=25672461 |
 | Social Media | Twitter | Naomi Wu (SexyCyborg)| Yes | Nov 07, 2019 | https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-3-defunding-deplatforming-and-detention-140fed4b9554 <br /> https://news.ycombinator.com/item?id=21479341 |
+| App distribution | Google | Wireguard, andOTP | Yes, No | Oct 16, 2019 | https://lists.zx2c4.com/pipermail/wireguard/2019-October/004596.html <br /> https://news.ycombinator.com/item?id=21268389 |
 | Domain name registrar | GoDaddy | Gab | ? | Oct 28, 2018 | https://www.theverge.com/2018/10/28/18036520/gab-down-godaddy-domain-blocked <br /> https://news.ycombinator.com/item?id=18324415 |
 | Cloud hosting | Joyent | Gab | ? | Oct 28, 2018 | https://www.theverge.com/2018/10/28/18034126/gab-social-network-stripe-joyent-deplatforming-hate-speech-pittsburgh-shooting <br /> https://news.ycombinator.com/item?id=18318788 |
 | Payment processor | Stripe | Gab | ? | Oct 28, 2018 | https://www.theverge.com/2018/10/28/18034126/gab-social-network-stripe-joyent-deplatforming-hate-speech-pittsburgh-shooting |
