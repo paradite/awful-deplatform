@@ -4,6 +4,8 @@ A collection of awful deplatform actions taken by private companies at their own
 
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
+| App payment profile | Google | Riders app Inc. | ? | Mar 30, 2022 | https://news.ycombinator.com/item?id=30861147 |
+| App distribution | Google | Raya Game (TOD Studio) | Yes | Mar 30, 2022 | https://www.reddit.com/r/androiddev/comments/ts6jfg/google_has_terminated_our_developer_account_says/ <br /> https://news.ycombinator.com/item?id=30855065 |
 | Domain name registrar | Namecheap | users registered in Russia | No | Feb 28, 2022 | https://news.ycombinator.com/item?id=30504812 |
 | Subscription service | Patreon | Come Back Alive | No | Feb 25, 2022 | https://blog.patreon.com/on-the-removal-of-come-back-alive <br /> https://news.ycombinator.com/item?id=30465654 |
 | Podcast | Spotify | some episodes of Joe Rogan's podcast | No | Feb 05, 2022 | https://www.jremissing.com/ <br /> https://news.ycombinator.com/item?id=30216740 |
