@@ -4,6 +4,7 @@ A collection of awful deplatform actions taken by private companies at their own
 
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
+| Financial Services | N26 | Individuals | ? | Apr 14, 2022 | https://www.linkedin.com/feed/update/urn:li:activity:6923278757692637184/ |
 | App payment profile | Google | Riders app Inc. | ? | Mar 30, 2022 | https://news.ycombinator.com/item?id=30861147 |
 | App distribution | Google | Raya Game (TOD Studio) | Yes | Mar 30, 2022 | https://www.reddit.com/r/androiddev/comments/ts6jfg/google_has_terminated_our_developer_account_says/ <br /> https://news.ycombinator.com/item?id=30855065 |
 | Domain name registrar | Namecheap | users registered in Russia | No | Feb 28, 2022 | https://news.ycombinator.com/item?id=30504812 |
