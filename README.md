@@ -17,7 +17,8 @@ A collection of awful deplatform actions taken by private companies at their own
 | Social Media | Twitter | Donald Trump | No | Jan 8, 2021 | https://blog.twitter.com/en_us/topics/company/2020/suspension <br /> https://news.ycombinator.com/item?id=25691912 |
 | Social Media | Facebook | Donald Trump | No | Jan 7, 2021 | https://www.facebook.com/4/posts/10112681480907401/ <br /> https://news.ycombinator.com/item?id=25672461 |
 | App distribution | Apple | Fortnite | No | Aug 13, 2020 | https://twitter.com/markgurman/status/1293984069722636288 <br /> https://news.ycombinator.com/item?id=24146902 |
-| Social Media | Twitter | Naomi Wu (SexyCyborg)| Yes | Nov 07, 2019 | https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-3-defunding-deplatforming-and-detention-140fed4b9554 <br /> https://news.ycombinator.com/item?id=21479341 |
+| Code Hosting | GitHub | Nikolay (catamphetamine) | Yes | Mar 9, 2020 | https://medium.com/@catamphetamine/how-github-blocked-me-and-all-my-libraries-c32c61f061d3 <br /> https://news.ycombinator.com/item?id=22593595 |
+| Social Media | Twitter | Naomi Wu (SexyCyborg)| Yes | Nov 7, 2019 | https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-3-defunding-deplatforming-and-detention-140fed4b9554 <br /> https://news.ycombinator.com/item?id=21479341 |
 | App distribution | Google | Wireguard, andOTP | Yes, No | Oct 16, 2019 | https://lists.zx2c4.com/pipermail/wireguard/2019-October/004596.html <br /> https://news.ycombinator.com/item?id=21268389 |
 | App distribution | Apple | HKmap.live | No | Oct 10, 2019 | https://twitter.com/DylanByers/status/1182133441267003392 <br /> https://news.ycombinator.com/item?id=21210678 |
 | Domain name registrar | GoDaddy | Gab | ? | Oct 28, 2018 | https://www.theverge.com/2018/10/28/18036520/gab-down-godaddy-domain-blocked <br /> https://news.ycombinator.com/item?id=18324415 |
