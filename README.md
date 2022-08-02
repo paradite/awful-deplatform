@@ -4,6 +4,7 @@ A collection of awful deplatform actions taken by private companies at their own
 
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
+| Cloud hosting | Oracle (OCI) | Batın Evirgen | ? | Aug 02, 2022 | https://batin.sh/blog/oracle-suspended-my-account/ <br /> https://news.ycombinator.com/item?id=32318498 |
 | Social Media | YouTube | Cornell University Library | Yes | Jun 17, 2022 | https://susiebright.substack.com/p/terminated <br /> https://news.ycombinator.com/item?id=31810687 |
 | Financial Services | N26 | Individuals | ? | Apr 14, 2022 | https://www.linkedin.com/feed/update/urn:li:activity:6923278757692637184/ |
 | App payment profile | Google | Riders app Inc. | ? | Mar 30, 2022 | https://news.ycombinator.com/item?id=30861147 |
