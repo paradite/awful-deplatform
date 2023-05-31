@@ -4,6 +4,7 @@ A collection of awful deplatform actions taken by private companies at their own
 
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
+| Payment processor | Stripe | a small business | ? | May 29, 2023 | https://twitter.com/Codie_Sanchez/status/1663182547793113090 |
 | Online Account | Google | Mark | No | Aug 21, 2022 | (Paywall) https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html <br /> https://news.ycombinator.com/item?id=32538805 <br /> https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked <br /> https://news.ycombinator.com/item?id=32560361 |
 | Cloud hosting | Oracle (OCI) | Batın Evirgen | ? | Aug 02, 2022 | https://batin.sh/blog/oracle-suspended-my-account/ <br /> https://news.ycombinator.com/item?id=32318498 |
 | Social Media | YouTube | Cornell University Library | Yes | Jun 17, 2022 | https://susiebright.substack.com/p/terminated <br /> https://news.ycombinator.com/item?id=31810687 |
