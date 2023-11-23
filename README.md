@@ -4,6 +4,7 @@ A collection of awful deplatform actions taken by private companies at their own
 
 | Platform Type | Company | Target | Restored | Date | Links |
 | --- | --- | --- | --- | --- | --- |
+| App distribution | Apple | Sarafan Mobile | ? | Sep 21, 2023 | https://twitter.com/seraleev/status/1727686112125002172 <br /> https://seraleev.notion.site/Our-developer-account-was-removed-by-Apple-and-they-haven-t-paid-out-108-878-b61192711c74487480373badc70d42c0 <br /> https://news.ycombinator.com/item?id=38394364 |
 | Payment processor | Stripe | a small business | ? | May 29, 2023 | https://twitter.com/Codie_Sanchez/status/1663182547793113090 |
 | Online Account | Google | Mark | No | Aug 21, 2022 | (Paywall) https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html <br /> https://news.ycombinator.com/item?id=32538805 <br /> https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked <br /> https://news.ycombinator.com/item?id=32560361 |
 | Cloud hosting | Oracle (OCI) | Batın Evirgen | ? | Aug 02, 2022 | https://batin.sh/blog/oracle-suspended-my-account/ <br /> https://news.ycombinator.com/item?id=32318498 |
